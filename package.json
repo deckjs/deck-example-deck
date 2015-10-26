@@ -1,5 +1,5 @@
 {
-  "name": "deck-example-deck",
+  "name": "@deck/example-deck",
   "version": "1.0.0",
   "skin": "@deck/skin-light",
   "files": [
