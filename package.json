@@ -1,0 +1,17 @@
+{
+  "name": "deck-example-deck",
+  "version": "1.0.0",
+  "skin": "@deck/skin-light",
+  "files": [
+    "Readme.md",
+    "deck.md",
+    "images",
+    "code"
+  ],
+  "dependencies": {
+    "@deck/present": "^1.1.0",
+    "@deck/skin-light": "^1.0.2"
+  },
+  "author": "David Mark Clements",
+  "license": "Attribution-ShareAlike 4.0 International"
+}
